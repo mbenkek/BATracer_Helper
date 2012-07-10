@@ -4,7 +4,7 @@ BATracer Helper
 
 About
 -----
-This is a small Windows app written in C# (dotNET 3.5) for F1 Manager Game [BATracer](http://batracer.com "BATracer"). It takes weather information, number of laps, desired pitstops and reaction time to race events as input in order to calculate race strategy.
+This is a small Windows app written in C# (dotNET 3.5) for F1 Manager Game [BATracer](http://batracer.com "BATracer"). It takes weather information, number of laps, desired pit stops and reaction time to race events as input in order to calculate race strategy.
 
 Run
 ---
@@ -12,7 +12,7 @@ Get git and compile for latest build. You can also get Windows exec [here](http:
 
 Usage
 -----
-Input parametars and click "Calculte!". 
+Input parameters and click "Calculate!".
 
 Readings
 --------
